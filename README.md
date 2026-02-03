@@ -1,3 +1,5 @@
 ### [Happy Software Developers Solve Problems Better](https://pmc.ncbi.nlm.nih.gov/articles/PMC3961150/)
 
 What's interesting about this article is that it brings a psychological perspective into software engineering, and highlights that happier software deelopers perform better on analytical problem-solving tasks. Instead of relying on intuition or workplace anecdotes, the authors of the article measure the developers' states by using validated psychology scales and connect them to a developer's performance on a standardized cognitive task (the Tower of London). The authors note that positie mood correlates with stronger analytical reasoning, indicating that a developer's well-being is a factor that can directly influence development outcomes.
+
+Sean - Personally, this resonates with my experience, as my ability to think clearly and solve problems tends to improve when I’m in a positive mental state. I think some big tech companies have a 4 days work and 1 day learn idealogy which can help improve engineer's mental states.
